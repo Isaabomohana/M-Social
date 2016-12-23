@@ -8,6 +8,7 @@ gem 'sqlite3'
 gem 'devise'
 gem 'materialize-sass'
 gem 'jquery-turbolinks'
+gem 'carrierwave', '>= 1.0.0.rc', '< 2.0'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
